@@ -1,0 +1,12 @@
+# -------------------------------------------------
+# Ignoring directories and their contents
+RTE
+DebugConfig
+
+# -------------------------------------------------
+# Ignoring files by extension
+*.log
+*.bak
+*.scvd
+*.dbk
+*.obk
