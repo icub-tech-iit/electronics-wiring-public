@@ -1,0 +1,80 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\orcadlibrary\icubparts.olb"
+        (Type "Schematic Library")))
+    (File ".\wiring-icub_v.1.3.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (CANFilter_C
+      (FullPartName "CANFilter_C.Normal")
+      (LibraryName
+         "\\GEO\FABRIZIO.LAROSA\WORKS_2010\PRODUZIONE\ORCADLIBRARY\ICUBPARTS.OLB")
+      (DeviceIndex "0"))
+    (CANFilter_A
+      (FullPartName "CANFilter_A.Normal")
+      (LibraryName
+         "\\GEO\FABRIZIO.LAROSA\WORKS_2010\PRODUZIONE\ORCADLIBRARY\ICUBPARTS.OLB")
+      (DeviceIndex "0"))
+    (RightPalmSkin
+      (FullPartName "RightPalmSkin.Normal")
+      (LibraryName
+         "\\GEO\FABRIZIO.LAROSA\WORKS_2010\PRODUZIONE\ORCADLIBRARY\ICUBPARTS.OLB")
+      (DeviceIndex "0"))
+    (RightLowerForearmSkin
+      (FullPartName "RightLowerForearmSkin.Normal")
+      (LibraryName
+         "\\GEO\FABRIZIO.LAROSA\WORKS_2010\PRODUZIONE\ORCADLIBRARY\ICUBPARTS.OLB")
+      (DeviceIndex "0"))
+    (RightUpperForearmSkin
+      (FullPartName "RightUpperForearmSkin.Normal")
+      (LibraryName
+         "\\GEO\FABRIZIO.LAROSA\WORKS_2010\PRODUZIONE\ORCADLIBRARY\ICUBPARTS.OLB")
+      (DeviceIndex "0"))
+    (LeftLowerForearmSkin
+      (FullPartName "LeftLowerForearmSkin.Normal")
+      (LibraryName
+         "\\GEO\FABRIZIO.LAROSA\WORKS_2010\PRODUZIONE\ORCADLIBRARY\ICUBPARTS.OLB")
+      (DeviceIndex "0"))
+    (LeftUpperForearmSkin
+      (FullPartName "LeftUpperForearmSkin.Normal")
+      (LibraryName
+         "\\GEO\FABRIZIO.LAROSA\WORKS_2010\PRODUZIONE\ORCADLIBRARY\ICUBPARTS.OLB")
+      (DeviceIndex "0"))
+    (LeftPalmSkin
+      (FullPartName "LeftPalmSkin.Normal")
+      (LibraryName
+         "\\GEO\FABRIZIO.LAROSA\WORKS_2010\PRODUZIONE\ORCADLIBRARY\ICUBPARTS.OLB")
+      (DeviceIndex "0"))
+    (LeftUpperForearm
+      (FullPartName "LeftUpperForearm.Normal")
+      (LibraryName
+         "\\GEO\FABRIZIO.LAROSA\WORKS_2010\PRODUZIONE\ORCADLIBRARY\ICUBPARTS.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "\\Geo\fabrizio.larosa\WORKS_2010\Produzione\iCubWiring\iCubWiring_Ver.1.3.0\Orcad16.3-Wiring\wiring-icub_v.1.3.dsn")
+      (Path "Design Resources"
+         "\\Geo\fabrizio.larosa\WORKS_2010\Produzione\iCubWiring\iCubWiring_Ver.1.3.0\Orcad16.3-Wiring\wiring-icub_v.1.3.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "\\Geo\fabrizio.larosa\WORKS_2010\Produzione\iCubWiring\iCubWiring_Ver.1.3.0\Orcad16.3-Wiring\wiring-icub_v.1.3.dsn"
+         "Can line")
+      (Path "Design Resources" "Library"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -30 0 200 0 379"))
+      (Tab 0)))
+  (MPSSessionName "fabrizio.larosa"))

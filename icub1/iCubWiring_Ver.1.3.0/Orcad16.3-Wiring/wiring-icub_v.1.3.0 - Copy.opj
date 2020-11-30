@@ -1,0 +1,78 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\wiring-icub_v.1.3.0.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\wiring-icub_v.1.3.0.dsn")
+      (Path "Design Resources" ".\wiring-icub_v.1.3.0.dsn" "SCHEMATIC1")
+      (Path "Design Resources" ".\wiring-icub_v.1.3.0.dsn" "LeftArm")
+      (Path "Design Resources" ".\wiring-icub_v.1.3.0.dsn" "LeftLeg")
+      (Path "Design Resources" ".\wiring-icub_v.1.3.0.dsn" "RightArm")
+      (Select "Design Resources" ".\wiring-icub_v.1.3.0.dsn" "RightArm"
+         "RightArm"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 453"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1211 50 352")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "Z:\PROJECTS\ICUBPROTOTYPE\ICUBWIRING_VER.1.3.0\ORCAD16.3-WIRING\WIRING-ICUB_V.1.3.0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "ExtPwrCable"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1236 75 377")
+        (Scroll "0 90")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "Z:\PROJECTS\ICUBPROTOTYPE\ICUBWIRING_VER.1.3.0\ORCAD16.3-WIRING\WIRING-ICUB_V.1.3.0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "RobotCub Cabling"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1286 125 427")
+        (Scroll "364 109")
+        (Zoom "100")
+        (Occurrence "/LL"))
+      (Path
+         "Z:\PROJECTS\ICUBPROTOTYPE\ICUBWIRING_VER.1.3.0\ORCAD16.3-WIRING\WIRING-ICUB_V.1.3.0.DSN")
+      (Schematic "LeftLeg")
+      (Page "LeftLeg"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1531 125 649")
+        (Scroll "-180 0")
+        (Zoom "61")
+        (Occurrence "/RA"))
+      (Path
+         "Z:\PROJECTS\ICUBPROTOTYPE\ICUBWIRING_VER.1.3.0\ORCAD16.3-WIRING\WIRING-ICUB_V.1.3.0.DSN")
+      (Schematic "RightArm")
+      (Page "RightArm")))
+  (PartMRUSelector
+    (CANFilter_A
+      (FullPartName "CANFilter_A.Normal")
+      (LibraryName
+         "\\GEO\FABRIZIO.LAROSA\WORKS_2010\PRODUZIONE\ORCADLIBRARY\ICUBPARTS.OLB")
+      (DeviceIndex "0"))))

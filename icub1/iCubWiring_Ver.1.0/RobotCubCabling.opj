@@ -1,0 +1,130 @@
+(ExpressProject "RobotCubCabling"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\robotcubcabling.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MICROPHONE
+      (FullPartName "MICROPHONE.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\ELECTROMECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (51021-0600
+      (FullPartName "51021-0600.Normal")
+      (LibraryName
+         "\\GEO\REPOSITORY\GROUPS\ELECTRONIC_LAB\ORCAD LIBRARY\IIT.OLB")
+      (DeviceIndex "0"))
+    (51047-0600
+      (FullPartName "51047-0600.Normal")
+      (LibraryName
+         "\\GEO\REPOSITORY\GROUPS\ELECTRONIC_LAB\ORCAD LIBRARY\IIT.OLB")
+      (DeviceIndex "0"))
+    (CFW-001
+      (FullPartName "CFW-001.Normal")
+      (LibraryName
+         "\\GEO\REPOSITORY\GROUPS\ELECTRONIC_LAB\ORCAD LIBRARY\IIT.OLB")
+      (DeviceIndex "0"))
+    (RobotCubTitleBlock
+      (LibraryName
+         "\\GEO\REPOSITORY\GROUPS\ELECTRONIC_LAB\ORCAD LIBRARY\IIT.OLB")
+      (DeviceIndex "0"))
+    ("CAPACITOR POL"
+      (FullPartName "CAPACITOR POL.Normal")
+      (LibraryName
+         "\\GEO\REPOSITORY\GROUPS\ELECTRONIC_LAB\ORCAD LIBRARY\IIT.OLB")
+      (DeviceIndex "0"))
+    (AEA-001
+      (FullPartName "AEA-001.Normal")
+      (LibraryName
+         "\\GEO\REPOSITORY\GROUPS\ELECTRONIC_LAB\ORCAD LIBRARY\IIT.OLB")
+      (DeviceIndex "0"))
+    (SS495A1
+      (FullPartName "SS495A1.Normal")
+      (LibraryName
+         "\\GEO\REPOSITORY\GROUPS\ELECTRONIC_LAB\ORCAD LIBRARY\IIT.OLB")
+      (DeviceIndex "0"))
+    (DS18S20
+      (FullPartName "DS18S20.Normal")
+      (LibraryName
+         "\\GEO\REPOSITORY\GROUPS\ELECTRONIC_LAB\ORCAD LIBRARY\IIT.OLB")
+      (DeviceIndex "0"))
+    (DS18S20_TO92
+      (FullPartName "DS18S20_TO92.Normal")
+      (LibraryName
+         "\\GEO\REPOSITORY\GROUPS\ELECTRONIC_LAB\ORCAD LIBRARY\MISC3.OLB")
+      (DeviceIndex "0"))
+    (BLL-001
+      (FullPartName "BLL-001.Normal")
+      (LibraryName
+         "\\GEO\REPOSITORY\GROUPS\ELECTRONIC_LAB\ORCAD LIBRARY\IIT.OLB")
+      (DeviceIndex "0"))
+    (BLP-001
+      (FullPartName "BLP-001.Normal")
+      (LibraryName
+         "\\GEO\REPOSITORY\GROUPS\ELECTRONIC_LAB\ORCAD LIBRARY\IIT.OLB")
+      (DeviceIndex "0"))
+    (MC4-001
+      (FullPartName "MC4-001.Normal")
+      (LibraryName
+         "\\GEO\REPOSITORY\GROUPS\ELECTRONIC_LAB\ORCAD LIBRARY\IIT.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (MCP-001
+      (FullPartName "MCP-001.Normal")
+      (LibraryName
+         "\\GEO\REPOSITORY\GROUPS\ELECTRONIC_LAB\ORCAD LIBRARY\IIT.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "Y:\Projects\iCubPrototype\Cablaggio\robotcubcabling.dsn")
+      (Path "Design Resources"
+         "Y:\Projects\iCubPrototype\Cablaggio\robotcubcabling.dsn" "LeftArm")
+      (Select "Design Resources"
+         "Y:\Projects\iCubPrototype\Cablaggio\robotcubcabling.dsn" "LeftArm"
+         "LeftArm"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 160 1038 -4 -30 0 326 0 683"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -30 88 1424 116 867")
+        (Scroll "104 0")
+        (Zoom "100")
+        (Occurrence "/LA"))
+      (Path "Y:\PROJECTS\ICUBPROTOTYPE\CABLAGGIO\ROBOTCUBCABLING.DSN")
+      (Schematic "LeftArm")
+      (Page "LeftArm")))
+  (LastUsedLibraryBrowseDirectory "C:\OrCAD\OrCAD_16.0\tools\capture\library")
+  (MPSSessionName "fabrizio.larosa"))

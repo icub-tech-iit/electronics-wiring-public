@@ -1,0 +1,57 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\wiring-icub_v.1.3.0.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\wiring-icub_v.1.3.0.dsn")
+      (Path "Design Resources" ".\wiring-icub_v.1.3.0.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\wiring-icub_v.1.3.0.dsn" "SCHEMATIC1"
+         "ExtPwrCable-New Power Supply"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 453"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1456 50 574")
+        (Scroll "0 256")
+        (Zoom "122")
+        (Occurrence "/"))
+      (Path
+         "F:\ICUBHARDWARE\WIRING\ICUBWIRING_VER.1.3.0\ORCAD16.3-WIRING\WIRING-ICUB_V.1.3.0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "ExtPwrCable"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 75 1481 75 599")
+        (Scroll "0 0")
+        (Zoom "122")
+        (Occurrence "/"))
+      (Path
+         "F:\ICUBHARDWARE\WIRING\ICUBWIRING_VER.1.3.0\ORCAD16.3-WIRING\WIRING-ICUB_V.1.3.0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "ExtPwrCable-New Power Supply")))
+  (PartMRUSelector
+    (SCHOTTKY.generic
+      (FullPartName "SCHOTTKY.generic.Normal")
+      (LibraryName "O:\DI.OLB")
+      (DeviceIndex "0"))
+    (CANFilter_A
+      (FullPartName "CANFilter_A.Normal")
+      (LibraryName
+         "\\GEO\FABRIZIO.LAROSA\WORKS_2010\PRODUZIONE\ORCADLIBRARY\ICUBPARTS.OLB")
+      (DeviceIndex "0"))))
